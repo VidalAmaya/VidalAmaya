@@ -6,4 +6,4 @@
 ---
 ## Frontend: HTML, React, Next.js, Tailwind CSS, JS.<br>
 ## Backend:	Node.js, Python (Django), PostgreSQL, MySQL.<br>
-## Herramientas	Git, Docker, AWS, Figma, Cursor.<br>
+#### Herramientas	Git, Docker, AWS, Figma, Cursor.<br>
