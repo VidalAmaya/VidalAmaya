@@ -9,7 +9,7 @@
 #### Herramientas	Git, Docker, AWS, Figma, Cursor.<br>
 ## Proyectos
 ---
-#### @icon-solid 1. Actualizarme academicamente
+#### 1. Actualizarme academicamente
 #### 2. Crear aplicación web interactiva donde los estudiantes puedan ver cómo funciona un algoritmo.
 #### 3. Diseñar una plataforma donde los alumnos suben sus dudas y el profesor pueden tomarlas, priorizarlas y marcarlas como resueltas.
 ##  Contacto
