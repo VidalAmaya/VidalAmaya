@@ -7,3 +7,10 @@
 #### Frontend: HTML, React, Next.js, Tailwind CSS, JS.<br>
 #### Backend:	Node.js, Python (Django), PostgreSQL, MySQL.<br>
 #### Herramientas	Git, Docker, AWS, Figma, Cursor.<br>
+
+##  Contacto
+---
+####📧 Email: lopezantonio327@gmail.com
+####💼 LinkedIn: www.linkedin.com/in/vidal-lopez-a327933a1
+####🐙 GitHub: @tu-usuario
+####🐦 Twitter/X: @tu-usuario
