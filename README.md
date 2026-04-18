@@ -11,7 +11,7 @@
 ---
 #### 1. Actualizarme academicamente
 #### 2. Crear aplicación web interactiva donde los estudiantes puedan ver cómo funciona un algoritmo.
-#### 3. na plataforma donde los alumnos suben sus dudas y el profesor pueden tomarlas, priorizarlas y marcarlas como resueltas.
+#### 3. Diseñar una plataforma donde los alumnos suben sus dudas y el profesor pueden tomarlas, priorizarlas y marcarlas como resueltas.
 ##  Contacto
 ---
 #### 📧 Email: lopezantonio327@gmail.com
