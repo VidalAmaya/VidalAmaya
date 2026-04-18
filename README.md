@@ -12,7 +12,7 @@
 ##  Contacto
 ### 1. Actualizarme academicamente
 ### 2. Crear aplicación web interactiva donde los estudiantes puedan ver cómo funciona un algoritmo.
-### 3. na plataforma donde los alumnos suben sus dudas y el profesor (o mentores alumnos) pueden tomarlas, priorizarlas y marcarlas como resueltas.
+### 3. na plataforma donde los alumnos suben sus dudas y el profesor pueden tomarlas, priorizarlas y marcarlas como resueltas.
 ---
 #### 📧 Email: lopezantonio327@gmail.com
 #### 💼 LinkedIn: www.linkedin.com/in/vidal-lopez-a327933a1
